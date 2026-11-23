@@ -1,0 +1,8 @@
+{
+  "platform": "windows",
+  "version": "1.0.2",
+  "revision": 2,
+  "download_url": "https://drive.google.com/file/d/1lgGPuFMCJztu1GC3FVa6cBnVghb9gA8-/view",
+  "notes": "修正 LINE 登入相容性，新增版本更新提示。請下載完整 ZIP 並解壓縮。",
+  "sha256": "521202bfb400c9e4bd4ddd2105b5bda75ee7fdee3a35b647c03b070d6985b09d"
+}
